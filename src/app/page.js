@@ -40,7 +40,7 @@ export default function Home() {
         <h1 className="text-3xl font-bold">Web Based Wallet</h1>
         <h1 className="text-3xl font-bold">Build at 100xDevs</h1>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/YadlaMani/Web-based-wallet"
           target="_blank"
           rel="noopener noreferrer"
         >
