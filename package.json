@@ -13,7 +13,9 @@
     "ethers": "^6.13.2",
     "next": "14.2.5",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "ethereumjs-wallet": "^0.6.8",
+    "react-icons": "^4.2.0"
   },
   "devDependencies": {
     "postcss": "^8",
